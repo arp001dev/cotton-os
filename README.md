@@ -15,5 +15,6 @@ it has 3 sections.they are:-
 
 all of this series sometimes comes with testing ISO for people who want to test new features and sometimes development unstable ISOs(made from unstable software like mkde-beta, firefox-beta ,etc)
 
-**installation using iso **:- coming soon
+**installation using iso**:- coming soon
+
 **instalation using scripts**:- instructions will be given when scripts are made
